@@ -1,0 +1,9 @@
+[project]
+name = "thuiswerkvergoeding"
+version = "0.1.0"
+description = "Excel transaction processing"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.2.0",
+    "openpyxl>=3.1.0",
+]
