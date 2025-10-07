@@ -1,4 +1,4 @@
-# Thuiswerkvergoeding
+# Thuiswerkvergoeder
 Script to parse export from shuttle to help fill in thuiswerkvergoeding declaration
 
 ## Use
